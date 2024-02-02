@@ -8,37 +8,36 @@ I'm a passionate student at St Aloysius College with a keen interest in app deve
 - 🌱 I’m always learning and staying updated with the latest trends in technology.
 - 👯 I’m open to collaborating on exciting projects and contributing to open-source initiatives.
 - 💬 Feel free to ask me about HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, React, Dart, Java, Python, C#, .NET, C++, C, PHP, Node.js, Express, Firebase, MongoDB, and more.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new places and trying out different cuisines.
 
 ## Skills
 
 ### App Development
-- Dart
-- Java
+- :dart: Dart
+- :coffee: Java
 
 ### Frontend Web Technologies & Frameworks
-- HTML
-- CSS
-- JavaScript
-- jQuery
-- Bootstrap
-- Tailwind CSS
-- React
+- :html5: HTML
+- :art: CSS
+- :javascript: JavaScript
+- :heavy_dollar_sign: jQuery
+- :bootstrap: Bootstrap
+- :wind_chime: Tailwind CSS
+- :atom_symbol: React
 
 ### Backend Web Technologies & Frameworks
-- Node.js
-- Express
-- Firebase
-- MongoDB
-- PHP
+- :nodejs: Node.js
+- :express: Express
+- :firebase: Firebase
+- :evergreen_tree: MongoDB
+- :php: PHP
 
 ### Other Programming Languages
-- Python
-- C#
-- .NET
-- C++
-- C
+- :snake: Python
+- :csharp: C#
+- :computer: .NET
+- :hammer_and_wrench: C++
+- :a: C
 
   
 ## Projects
@@ -69,11 +68,11 @@ I'm a passionate student at St Aloysius College with a keen interest in app deve
 
 ## GitHub Stats
 
-![Smartbooty69's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartbooty69&show_icons=true)
+[![Smartbooty69's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartbooty69&show_icons=true)](https://github.com/smartbooty69)
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/clancymendonca/)
-- [Twitter](https://twitter.com/clancymendonca)
+- [:linkedin: LinkedIn](https://www.linkedin.com/in/clancymendonca/)
+- [:bird: Twitter](https://twitter.com/clancymendonca)
 
 Feel free to explore my repositories and reach out to me for collaborations or inquiries. Let's build something amazing together! 🚀
