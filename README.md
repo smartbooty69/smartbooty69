@@ -11,6 +11,36 @@ I'm a passionate student at St Aloysius College with a keen interest in app deve
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new places and trying out different cuisines.
 
+## Skills
+
+### App Development
+- Dart
+- Java
+
+### Frontend Web Technologies & Frameworks
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Bootstrap
+- Tailwind CSS
+- React
+
+### Backend Web Technologies & Frameworks
+- Node.js
+- Express
+- Firebase
+- MongoDB
+- PHP
+
+### Other Programming Languages
+- Python
+- C#
+- .NET
+- C++
+- C
+
+  
 ## Projects
 
 1. **Portfolio**
@@ -43,8 +73,7 @@ I'm a passionate student at St Aloysius College with a keen interest in app deve
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Portfolio Website](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/clancymendonca/)
+- [Twitter](https://twitter.com/clancymendonca)
 
 Feel free to explore my repositories and reach out to me for collaborations or inquiries. Let's build something amazing together! 🚀
