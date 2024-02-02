@@ -1,78 +1,21 @@
-# Hi there, I'm Clancy Mendonca! 👋
+# 💫 About Me:
+# Hi there, I'm Clancy Mendonca! 👋<br><br>## About Me<br><br>I'm a passionate student at St Aloysius College with a keen interest in app development and full-stack web development. I love exploring new technologies and building innovative projects.<br><br>- 🔭 I’m currently working on enhancing my skills in both app development and full-stack web development.<br>- 🌱 I’m always learning and staying updated with the latest trends in technology.<br>- 👯 I’m open to collaborating on exciting projects and contributing to open-source initiatives.<br>- 💬 Feel free to ask me about HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, React, Dart, Java, Python, C#, .NET, C++, C, PHP, Node.js, Express, Firebase, MongoDB, and more.<br>- ⚡ Fun fact: I enjoy exploring new places and trying out different cuisines.<br><br>
 
-## About Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Clancy Mendonca) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Clancy Mendonca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Clancy Mendonca) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Clancy Mendonca) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Clancy Mendonca) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/smartbooy69) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Clancy Mendonca) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Clancy Mendonca) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Clancy Mendonca) 
 
-I'm a passionate student at St Aloysius College with a keen interest in app development and full-stack web development. I love exploring new technologies and building innovative projects.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=smartbooty69&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=smartbooty69&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smartbooty69&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on enhancing my skills in both app development and full-stack web development.
-- 🌱 I’m always learning and staying updated with the latest trends in technology.
-- 👯 I’m open to collaborating on exciting projects and contributing to open-source initiatives.
-- 💬 Feel free to ask me about HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, React, Dart, Java, Python, C#, .NET, C++, C, PHP, Node.js, Express, Firebase, MongoDB, and more.
-- ⚡ Fun fact: I enjoy exploring new places and trying out different cuisines.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Skills
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-### App Development
-- :dart: Dart
-- :coffee: Java
-
-### Frontend Web Technologies & Frameworks
-- :html5: HTML
-- :art: CSS
-- :javascript: JavaScript
-- :heavy_dollar_sign: jQuery
-- :bootstrap: Bootstrap
-- :wind_chime: Tailwind CSS
-- :atom_symbol: React
-
-### Backend Web Technologies & Frameworks
-- :nodejs: Node.js
-- :express: Express
-- :firebase: Firebase
-- :evergreen_tree: MongoDB
-- :php: PHP
-
-### Other Programming Languages
-- :snake: Python
-- :csharp: C#
-- :computer: .NET
-- :hammer_and_wrench: C++
-- :a: C
-
-  
-## Projects
-
-1. **Portfolio**
-   - Description: A stunning 3D animated portfolio website showcasing my work and skills. Built with Next.js, Three.js, GSAP, and Prismic.
-
-2. **codelab-friendlychat-web**
-   - Description: A cross-platform chat app developed as part of a Firebase codelab, allowing seamless communication between users.
-
-3. **Chatbot**
-   - Description: A chatbot powered by ChatGPT, providing automated responses and interactions. Built with Node.js for backend logic.
-
-4. **Gym-management-site**
-   - Description: A website designed to manage and organize gym-related tasks and operations, facilitating smoother management processes.
-
-5. **Todo_list**
-   - Description: An efficient to-do list application, allowing users to manage tasks with ease, including features like task editing and offline persistence.
-
-6. **Daily_Quote**
-   - Description: A daily quotes app providing users with motivational quotes each day, with features for easy sharing and favorite quote curation.
-
-7. **Weather-App**
-   - Description: A simple weather app providing users with current weather information for specific cities, offering a clean and intuitive interface.
-
-8. **Scandine**
-   - Description: ScanDine is a revolutionary dining app, allowing users to access menus instantly via QR codes, streamline ordering, manage carts, make seamless payments, and receive efficient billing.
-
-## GitHub Stats
-
-[![Smartbooty69's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smartbooty69&show_icons=true)](https://github.com/smartbooty69)
-
-## Connect with Me
-
-- [:linkedin: LinkedIn](https://www.linkedin.com/in/clancymendonca/)
-- [:bird: Twitter](https://twitter.com/clancymendonca)
-
-Feel free to explore my repositories and reach out to me for collaborations or inquiries. Let's build something amazing together! 🚀
+---
+[![](https://visitcount.itsvg.in/api?id=smartbooty69&icon=0&color=0)](https://visitcount.itsvg.in)
