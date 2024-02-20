@@ -1,7 +1,7 @@
-# 💫 About Me:
-# Hi there, I'm Clancy Mendonca! <br><br>I'm a passionate student at St Aloysius College with a keen interest in app development and full-stack web development. I love exploring new technologies and building innovative projects.<br><br>- 🔭 I’m currently working on enhancing my skills in both app development and full-stack web development.<br>- 🌱 I’m always learning and staying updated with the latest trends in technology.<br>- 👯 I’m open to collaborating on exciting projects and contributing to open-source initiatives.<br>- 💬 Feel free to ask me about HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, React, Dart, Java, Python, C#, .NET, C++, C, PHP, Node.js, Express, Firebase, MongoDB, and more.<br><br> 
+💫 About Me:
+Hi there, I'm Clancy Mendonca! <br><br>I'm a passionate student at St Aloysius College with a keen interest in app development and full-stack web development. I love exploring new technologies and building innovative projects.<br><br>- 🔭 I’m currently working on enhancing my skills in both app development and full-stack web development.<br>- 🌱 I’m always learning and staying updated with the latest trends in technology.<br>- 👯 I’m open to collaborating on exciting projects and contributing to open-source initiatives.<br>- 💬 Feel free to ask me about HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, React, Dart, Java, Python, C#, .NET, C++, C, PHP, Node.js, Express, Firebase, MongoDB, and more.<br><br> 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ClancyMendonca) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ClancyMendonca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ClancyMendonca) 
