@@ -1,4 +1,4 @@
-#💫 About Me:
+# 💫 About Me:
 Hi there, I'm Clancy Mendonca! <br><br>I'm a passionate student at St Aloysius College with a keen interest in app development and full-stack web development. I love exploring new technologies and building innovative projects.<br><br>- 🔭 I’m currently working on enhancing my skills in both app development and full-stack web development.<br>- 🌱 I’m always learning and staying updated with the latest trends in technology.<br>- 👯 I’m open to collaborating on exciting projects and contributing to open-source initiatives.<br>- 💬 Feel free to ask me about HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, React, Dart, Java, Python, C#, .NET, C++, C, PHP, Node.js, Express, Firebase, MongoDB, and more.<br><br> 
 
 # 🌐 Socials:
