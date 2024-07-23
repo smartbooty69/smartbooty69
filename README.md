@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I'm Clancy Mendonca! 👋
 
 I’m an MCA student at St. Joseph's University with a passion for app and full-stack web development.
