@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi there, I'm Clancy Mendonca! <br><br>I'm a passionate student at St Aloysius College with a keen interest in app development and full-stack web development. I love exploring new technologies and building innovative projects.<br><br>- 🔭 I’m currently working on enhancing my skills in both app development and full-stack web development.<br>- 🌱 I’m always learning and staying updated with the latest trends in technology.<br>- 👯 I’m open to collaborating on exciting projects and contributing to open-source initiatives.<br>- 💬 Feel free to ask me about HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, React, Dart, Java, Python, C#, .NET, C++, C, PHP, Node.js, Express, Firebase, MongoDB, and more.<br><br> 
+# Hi, I'm Clancy Mendonca! 👋
+
+I’m an MCA student at St. Joseph's University with a passion for app and full-stack web development.
+
+- 🔭 Currently enhancing my skills in development.
+- 🌱 Always learning and exploring new tech.
+- 👯 Open to collaboration and contributing to open-source.
+- 💬 Ask me about HTML, CSS, JavaScript, React, Python, and more.
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ClancyMendonca) 
